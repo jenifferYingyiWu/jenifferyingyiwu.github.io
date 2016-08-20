@@ -1,6 +1,6 @@
 # jenifferyingyiwu.github.io
 <title>
-Part I.  从电子邮件和论坛中抽取数据
+Part I.  &nbsp;&nbsp;从电子邮件和论坛中抽取数据
 </title>
 <p>
 1、从电子邮件和论坛中抽取数据;<br/>
@@ -11,7 +11,7 @@ Part I.  从电子邮件和论坛中抽取数据
 </p>
 <hr/>
 <title>
-Part II. Problems encountered in the work
+Part II. &nbsp;&nbsp;Problems encountered in the work
 </title>
 <p>
 1、Python-Loops；<br/>
@@ -19,5 +19,5 @@ Part II. Problems encountered in the work
 </p>
 <hr/>
 <title>
-Part III.  Journal Papers
+Part III.  &nbsp;&nbsp;Journal Papers
 </title>
