@@ -9,3 +9,7 @@
 4、Mining Google+: Computing Document Similarity, Extracting Collocations, and More；<br/>
 5、Introduction to Machine Learning。<br/>
 </p>
+<p>
+Feedback:
+1、Python-Loops；
+</p>
