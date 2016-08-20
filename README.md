@@ -17,6 +17,10 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
 1、Python-Loops；<br/>
 => 大数据中for循环引发的算法时间复杂度和效率问题。
 </p>
+<p>
+2、Python文本字符串匹配：<br/>
+=> mining-match-text.py
+</p>
 <hr/>
 <title>
 Part III.  &nbsp;&nbsp;Journal Papers
