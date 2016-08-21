@@ -21,6 +21,10 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
 2、Python文本字符串匹配：<br/>
 => mining-match-text.py
 </p>
+<p>
+3、Python多线程：<br/>
+=> thread_helper.py
+</p>
 <hr/>
 <title>
 Part III.  &nbsp;&nbsp;Journal Papers
