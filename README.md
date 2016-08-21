@@ -23,12 +23,12 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
 </p>
 <p>
 3、Python多线程：<br/>
-=> thread_helper.py <br/>
-=> Non-Programmer's Tutorial for Python 3 File IO.docx
+=> thread_helper.py 
 </p>
 <p>
 4、Python IO 操作文件：<br/>
-=> file-utils.py
+=> file-utils.py <br/>
+=> Non-Programmer's Tutorial for Python 3 File IO.docx
 </p>
 <hr/>
 <title>
