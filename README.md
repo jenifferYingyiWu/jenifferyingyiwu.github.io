@@ -46,3 +46,7 @@ Part III.  &nbsp;&nbsp;Journal Papers
 &nbsp;1.2、&nbsp;Using HTMLParser： <br/>
 => HTMLParser-utils.py
 </p>
+<p>
+&nbsp;1.3、&nbsp;Simple scraping：<br/>
+=> simple-scraping.py
+</p>
