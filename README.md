@@ -55,5 +55,5 @@ Part III.  &nbsp;&nbsp;Journal Papers
 </p>
 <p>
 &nbsp;2.1、&nbsp;A python library for implementing a recommender system：<br/>
-=>
-</p>baseclass.py, decision.py, ranking.py
+=> baseclass.py, decision.py, ranking.py
+</p>
