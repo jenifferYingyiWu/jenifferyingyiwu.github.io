@@ -40,20 +40,20 @@ Part III.  &nbsp;&nbsp;Journal Papers
 </p>
 <p>
 &nbsp;1.1、&nbsp;Using urllib：<br/>
-=> urllib-utils.py
+=> &nbsp;urllib-utils.py
 </p>
 <p>
 &nbsp;1.2、&nbsp;Using HTMLParser： <br/>
-=> HTMLParser-utils.py
+=> &nbsp;HTMLParser-utils.py
 </p>
 <p>
 &nbsp;1.3、&nbsp;Simple scraping：<br/>
-=> simple-scraping.py
+=> &nbsp;simple-scraping.py
 </p>
 <p>
 2、&nbsp;Recommender System using Python
 </p>
 <p>
 &nbsp;2.1、&nbsp;A python library for implementing a recommender system：<br/>
-=> baseclass.py, decision.py, ranking.py
+=> &nbsp;baseclass.py, &nbsp;decision.py, &nbsp;ranking.py
 </p>
