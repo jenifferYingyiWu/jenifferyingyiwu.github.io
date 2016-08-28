@@ -50,3 +50,10 @@ Part III.  &nbsp;&nbsp;Journal Papers
 &nbsp;1.3、&nbsp;Simple scraping：<br/>
 => simple-scraping.py
 </p>
+<p>
+2、&nbsp;Recommender System using Python
+</p>
+<p>
+&nbsp;2.1、&nbsp;A python library for implementing a recommender system：<br/>
+=>
+</p>baseclass.py, decision.py, ranking.py
