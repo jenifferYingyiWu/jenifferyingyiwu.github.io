@@ -58,6 +58,9 @@ Part III.  &nbsp;&nbsp;Journal Papers
 => &nbsp;baseclass.py, &nbsp;decision.py, &nbsp;ranking.py
 </p>
 <p>
-3、&nbsp;Recommender System Algorithms (source codes)：<br/>
-=> Similarity-based Learning.pdf
+3、&nbsp;Recommender System Algorithms (source codes based on papers)
+</p>
+<p>
+&nbsp;2.1、&nbsp;A python library for implementing a recommender system：<br/>
+=> &nbsp;Similarity-based Learning.pdf, &nbsp;util.py
 </p>
