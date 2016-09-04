@@ -62,5 +62,9 @@ Part III.  &nbsp;&nbsp;Journal Papers
 </p>
 <p>
 &nbsp;2.1、&nbsp;A python library for implementing a recommender system：<br/>
-=> &nbsp;Similarity-based Learning.pdf, &nbsp;第4章 基于近邻推荐方法综述.jpg, &nbsp;util.py
+=> &nbsp;Similarity-based Learning.pdf, &nbsp;第4章 基于近邻推荐方法综述.jpg
+</p>
+<p>
+&nbsp;2.2、&nbsp;Markov Decision Process (MDP) Toolbox for Python：<br/>
+=> &nbsp;mdp.py, &nbsp;util.py, 
 </p>
