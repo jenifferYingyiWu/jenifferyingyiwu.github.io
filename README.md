@@ -68,3 +68,10 @@ Part III.  &nbsp;&nbsp;Journal Papers
 &nbsp;2.2、&nbsp;Markov Decision Process (MDP) Toolbox for Python：<br/>
 => &nbsp;mdp.py, &nbsp;util.py, 
 </p>
+<p>
+4、&nbsp;Feature Selection
+</p>
+<p>
+&nbsp;4.1、&nbsp;Classification Algorithms：<br/>
+=> &nbsp;Galaxy Classification
+</p>
