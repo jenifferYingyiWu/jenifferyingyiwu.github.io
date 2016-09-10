@@ -18,7 +18,7 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
 <table>
   <tr>
     <td>
-      大数据中for循环引发的算法时间复杂度和效率问题。
+      &nbsp;大数据中for循环引发的算法时间复杂度和效率问题。
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
 <table>
   <tr>
     <td>
-    mining-match-text.py
+    &nbsp;mining-match-text.py
     </td>
   </tr>
 </table>
@@ -38,7 +38,7 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
 <table>
   <tr>
     <td>
-    thread_helper.py 
+    &nbsp;thread_helper.py 
     </td>
   </tr>
 </table>
@@ -51,7 +51,7 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
     file-utils.py <br/>
     </td>
     <td>
-    Non-Programmer's Tutorial for Python 3 File I/O.docx <br/>
+    &nbsp;Non-Programmer's Tutorial for Python 3 File I/O.docx <br/>
     </td>
     <td>
     Python File I/O.docx
@@ -64,7 +64,7 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
 <table>
   <tr>
     <td>
-    Data storage on the batch layer.pdf
+    &nbsp;Data storage on the batch layer.pdf
     </td>
   </tr>
 </table>
@@ -78,7 +78,7 @@ Part III.  &nbsp;&nbsp;Machine Learning Algorithms
 <table>
   <tr>
     <td>
-    Markov Random Fields.pdf
+    &nbsp;Markov Random Fields.pdf
     </td>
   </tr>
 </table>
@@ -92,38 +92,92 @@ Part III.  &nbsp;&nbsp;Journal Papers
 </p>
 <p>
 &nbsp;1.1、&nbsp;Using urllib：<br/>
-=> &nbsp;urllib-utils.py
+<table>
+  <tr>
+    <td>
+    &nbsp;urllib-utils.py
+    </td>
+  </tr>
+</table>
 </p>
 <p>
 &nbsp;1.2、&nbsp;Using HTMLParser： <br/>
-=> &nbsp;HTMLParser-utils.py
+<table>
+  <tr>
+    <td>
+    &nbsp;HTMLParser-utils.py
+    </td>
+  </tr>
+</table>
 </p>
 <p>
 &nbsp;1.3、&nbsp;Simple scraping：<br/>
-=> &nbsp;simple-scraping.py
+<table>
+  <tr>
+    <td>
+    &nbsp;simple-scraping.py
+    </td>
+  </tr>
+</table>
 </p>
 <p>
 2、&nbsp;Recommender System using Python
 </p>
 <p>
 &nbsp;2.1、&nbsp;A python library for implementing a recommender system：<br/>
-=> &nbsp;baseclass.py, &nbsp;decision.py, &nbsp;ranking.py
+<table>
+  <tr>
+    <td>
+    &nbsp;baseclass.py
+    </td>
+    <td>
+    &nbsp;decision.py
+    </td>
+    <td>
+    &nbsp;ranking.py
+    </td>
+  </tr>
+</table>
 </p>
 <p>
 3、&nbsp;Recommender System Algorithms (source codes based on papers)
 </p>
 <p>
 &nbsp;2.1、&nbsp;A python library for implementing a recommender system：<br/>
-=> &nbsp;Similarity-based Learning.pdf, &nbsp;基于近邻推荐方法综述.jpg
+<table>
+  <tr>
+    <td>
+    &nbsp;Similarity-based Learning.pdf
+    </td>
+    <td>
+    &nbsp;基于近邻推荐方法综述.jpg
+    </td>
+  </tr>
+</table>
 </p>
 <p>
 &nbsp;2.2、&nbsp;Markov Decision Process (MDP) Toolbox for Python：<br/>
-=> &nbsp;mdp.py, &nbsp;util.py, 
+<table>
+  <tr>
+    <td>
+    &nbsp;mdp.py
+    </td>
+    <td>
+    &nbsp;util.py, 
+    </td>
+  </tr>
+</table>
 </p>
 <p>
 4、&nbsp;Feature Selection
 </p>
 <p>
 &nbsp;4.1、&nbsp;Classification Algorithms：<br/>
-=> &nbsp;Galaxy Classification
+<table>
+  <tr>
+    <td>
+    &nbsp;Galaxy Classification
+    </td>
+  </tr>
+</table>
 </p>
