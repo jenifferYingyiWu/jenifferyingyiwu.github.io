@@ -15,21 +15,73 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
 </title>
 <p>
 1、&nbsp;Python-Loops；<br/>
-=> 大数据中for循环引发的算法时间复杂度和效率问题。
+<table>
+  <tr>
+    <td>
+      大数据中for循环引发的算法时间复杂度和效率问题。
+    </td>
+  </tr>
+</table>
 </p>
 <p>
 2、&nbsp;Python文本字符串匹配：<br/>
-=> mining-match-text.py
+<table>
+  <tr>
+    <td>
+    mining-match-text.py
+    </td>
+  </tr>
+</table>
 </p>
 <p>
 3、&nbsp;Python多线程：<br/>
-=> thread_helper.py 
+<table>
+  <tr>
+    <td>
+    thread_helper.py 
+    </td>
+  </tr>
+</table>
 </p>
 <p>
 4、&nbsp;Python IO 操作文件：<br/>
-=> file-utils.py <br/>
-=> Non-Programmer's Tutorial for Python 3 File I/O.docx <br/>
-=> Python File I/O.docx
+<table>
+  <tr>
+    <td>
+    file-utils.py <br/>
+    </td>
+    <td>
+    Non-Programmer's Tutorial for Python 3 File I/O.docx <br/>
+    </td>
+    <td>
+    Python File I/O.docx
+    </td>
+  </tr>
+</table>
+</p>
+<p>
+5、&nbsp;Big Data：<br/>
+<table>
+  <tr>
+    <td>
+    Data storage on the batch layer.pdf
+    </td>
+  </tr>
+</table>
+</p>
+<hr/>
+<title>
+Part III.  &nbsp;&nbsp;Machine Learning Algorithms
+</title>
+<p>
+1、&nbsp;Graphical Models：<br/>
+<table>
+  <tr>
+    <td>
+    Markov Random Fields.pdf
+    </td>
+  </tr>
+</table>
 </p>
 <hr/>
 <title>
