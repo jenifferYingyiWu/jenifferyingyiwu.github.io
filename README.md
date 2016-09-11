@@ -191,3 +191,16 @@ Part IV.  &nbsp;&nbsp;Journal Papers
   </tr>
 </table>
 </p>
+<p>
+&nbsp;4.2、&nbsp;scikit-learn：<br/>
+<table>
+  <tr>
+    <td>
+    &nbsp;feature_selection_pipeline.py
+    </td>
+    <td>
+    &nbsp;plot_feature_selection.py
+    </td>
+  </tr>
+</table>
+</p>
