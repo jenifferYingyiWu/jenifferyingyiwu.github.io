@@ -83,6 +83,16 @@ Part III.  &nbsp;&nbsp;Machine Learning Algorithms
   </tr>
 </table>
 </p>
+<p>
+2、&nbsp;DECISION TREES：<br/>
+<table>
+  <tr>
+    <td>
+    &nbsp;Learning with Trees.pdf
+    </td>
+  </tr>
+</table>
+</p>
 <hr/>
 <title>
 Part IV.  &nbsp;&nbsp;Journal Papers
