@@ -1,6 +1,6 @@
 # jenifferyingyiwu.github.io
 <title>
-Part I.  &nbsp;&nbsp;从电子邮件和论坛中抽取数据
+Part I.  &nbsp;&nbsp;从电子邮件和论坛中抽取数据 (From Book-reading-notes)
 </title>
 <p>
 <table>
@@ -22,7 +22,7 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
 <table>
   <tr>
     <td>
-	1、&nbsp;Python-Loops；<br/>
+	1、&nbsp;Python-Loops (From Book-reading-notes)：<br/>
 	<table>
   		<tr>
     			<td>
@@ -60,7 +60,7 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
     			</td>
   		</tr>
 	</table>
-	5、&nbsp;Big Data：<br/>
+	5、&nbsp;Big Data (From Book-reading-notes)：<br/>
 	<table>
   		<tr>
     			<td>
@@ -73,28 +73,30 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
 </table>
 <hr/>
 <title>
-Part III.  &nbsp;&nbsp;Machine Learning Algorithms
+Part III.  &nbsp;&nbsp;Machine Learning Algorithms (From Book-reading-notes)
 </title>
-<p>
-1、&nbsp;Graphical Models：<br/>
 <table>
-  <tr>
-    <td>
-    &nbsp;Markov Random Fields.pdf
-    </td>
-  </tr>
+<tr>
+	<td>
+	1、&nbsp;Graphical Models：<br/>
+	<table>
+  		<tr>
+    			<td>
+    				&nbsp;Markov Random Fields.pdf
+    			</td>
+  		</tr>
+	</table>
+	2、&nbsp;DECISION TREES：<br/>
+	<table>
+  		<tr>
+    			<td>
+    				&nbsp;Learning with Trees.pdf
+    			</td>
+  		</tr>
+	</table>
+	</td>
+</tr>
 </table>
-</p>
-<p>
-2、&nbsp;DECISION TREES：<br/>
-<table>
-  <tr>
-    <td>
-    &nbsp;Learning with Trees.pdf
-    </td>
-  </tr>
-</table>
-</p>
 <hr/>
 <title>
 Part IV.  &nbsp;&nbsp;Journal Papers
@@ -158,7 +160,7 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 3、&nbsp;Recommender System Algorithms (source codes based on papers)
 </p>
 <p>
-&nbsp;2.1、&nbsp;A python library for implementing a recommender system：<br/>
+&nbsp;3.1、&nbsp;A python library for implementing a recommender system (From Book-reading-notes)：<br/>
 <table>
   <tr>
     <td>
@@ -171,7 +173,7 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 </table>
 </p>
 <p>
-&nbsp;2.2、&nbsp;Markov Decision Process (MDP) Toolbox for Python：<br/>
+&nbsp;3.2、&nbsp;Markov Decision Process (MDP) Toolbox for Python：<br/>
 <table>
   <tr>
     <td>
@@ -187,11 +189,11 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 4、&nbsp;Feature Selection
 </p>
 <p>
-&nbsp;4.1、&nbsp;Classification Algorithms：<br/>
+&nbsp;4.1、&nbsp;Classification Algorithms (From Book-reading-notes)：<br/>
 <table>
   <tr>
     <td>
-    &nbsp;Galaxy Classification
+    &nbsp;Galaxy Classification.pdf
     </td>
   </tr>
 </table>
