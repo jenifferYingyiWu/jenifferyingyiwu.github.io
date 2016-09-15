@@ -19,62 +19,58 @@ Part I.  &nbsp;&nbsp;从电子邮件和论坛中抽取数据
 <title>
 Part II. &nbsp;&nbsp;Problems encountered in the work
 </title>
-<p>
-1、&nbsp;Python-Loops；<br/>
 <table>
   <tr>
     <td>
-      &nbsp;大数据中for循环引发的算法时间复杂度和效率问题。
+	1、&nbsp;Python-Loops；<br/>
+	<table>
+  		<tr>
+    			<td>
+      				&nbsp;大数据中for循环引发的算法时间复杂度和效率问题。
+    			</td>
+  		</tr>
+	</table>
+	2、&nbsp;Python文本字符串匹配：<br/>
+	<table>
+  		<tr>
+    			<td>
+    				&nbsp;mining-match-text.py
+    			</td>
+  		</tr>
+	</table>
+	3、&nbsp;Python多线程：<br/>
+	<table>
+  		<tr>
+    			<td>
+    				&nbsp;thread_helper.py 
+    			</td>
+  		</tr>
+	</table>
+	4、&nbsp;Python IO 操作文件：<br/>
+	<table>
+  		<tr>
+    			<td>
+    				file-utils.py <br/>
+    			</td>
+    			<td>
+    				&nbsp;Non-Programmer's Tutorial for Python 3 File I/O.docx <br/>
+    			</td>
+    			<td>
+    				Python File I/O.docx
+    			</td>
+  		</tr>
+	</table>
+	5、&nbsp;Big Data：<br/>
+	<table>
+  		<tr>
+    			<td>
+    				&nbsp;Data storage on the batch layer.pdf
+    			</td>
+  		</tr>
+	</table>
     </td>
   </tr>
 </table>
-</p>
-<p>
-2、&nbsp;Python文本字符串匹配：<br/>
-<table>
-  <tr>
-    <td>
-    &nbsp;mining-match-text.py
-    </td>
-  </tr>
-</table>
-</p>
-<p>
-3、&nbsp;Python多线程：<br/>
-<table>
-  <tr>
-    <td>
-    &nbsp;thread_helper.py 
-    </td>
-  </tr>
-</table>
-</p>
-<p>
-4、&nbsp;Python IO 操作文件：<br/>
-<table>
-  <tr>
-    <td>
-    file-utils.py <br/>
-    </td>
-    <td>
-    &nbsp;Non-Programmer's Tutorial for Python 3 File I/O.docx <br/>
-    </td>
-    <td>
-    Python File I/O.docx
-    </td>
-  </tr>
-</table>
-</p>
-<p>
-5、&nbsp;Big Data：<br/>
-<table>
-  <tr>
-    <td>
-    &nbsp;Data storage on the batch layer.pdf
-    </td>
-  </tr>
-</table>
-</p>
 <hr/>
 <title>
 Part III.  &nbsp;&nbsp;Machine Learning Algorithms
@@ -106,37 +102,40 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 <p>
 1、&nbsp;web-crawling in Python 
 </p>
-<p>
-&nbsp;1.1、&nbsp;Using urllib：<br/>
 <table>
-  <tr>
-    <td>
-    &nbsp;urllib-utils.py
-    </td>
-  </tr>
+<tr>
+	<td>
+	&nbsp;1.1、&nbsp;Using urllib：<br/>
+	<table>
+  		<tr>
+    			<td>
+    				&nbsp;urllib-utils.py
+    			</td>
+  		</tr>
+	</table>
+	</td>
+	<td>
+	&nbsp;1.2、&nbsp;Using HTMLParser： <br/>
+	<table>
+  		<tr>
+    			<td>
+    				&nbsp;HTMLParser-utils.py
+    			</td>
+  		</tr>
+	</table>
+	</td>
+	<td>
+	&nbsp;1.3、&nbsp;Simple scraping：<br/>
+	<table>
+  	<tr>
+    		<td>
+    			&nbsp;simple-scraping.py
+    		</td>
+  	</tr>
+	</table>
+	</td>
+</tr>
 </table>
-</p>
-<p>
-&nbsp;1.2、&nbsp;Using HTMLParser： <br/>
-<table>
-  <tr>
-    <td>
-    &nbsp;HTMLParser-utils.py
-    </td>
-  </tr>
-</table>
-</p>
-<p>
-&nbsp;1.3、&nbsp;Simple scraping：<br/>
-<table>
-  <tr>
-    <td>
-    &nbsp;simple-scraping.py
-    </td>
-  </tr>
-</table>
-</p>
-<p>
 2、&nbsp;Recommender System using Python
 </p>
 <p>
