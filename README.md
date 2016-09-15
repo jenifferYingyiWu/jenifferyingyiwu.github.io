@@ -142,7 +142,7 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 2、&nbsp;Big data cleaning
 </p>
 <p>
-&nbsp;2.1、&nbsp;Big data distributed cluster (From Book-reading-notes)：<br/>
+&nbsp;2.1、&nbsp;Big data distributed cluster (From Paper-reading-notes)：<br/>
 <table>
   <tr>
     <td>
