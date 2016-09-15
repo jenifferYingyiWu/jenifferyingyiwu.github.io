@@ -138,10 +138,24 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 	</td>
 </tr>
 </table>
-2、&nbsp;Recommender System using Python
+<p>
+2、&nbsp;Big data cleaning
 </p>
 <p>
-&nbsp;2.1、&nbsp;A python library for implementing a recommender system：<br/>
+&nbsp;2.1、&nbsp;Big data distributed cluster (From Book-reading-notes)：<br/>
+<table>
+  <tr>
+    <td>
+    &nbsp;Toward Scalable Systems for Big Data Analytics: A Technology Tutorial (I - III).pdf
+    </td>
+  </tr>
+</table>
+</p>
+<p>
+3、&nbsp;Recommender System using Python
+</p>
+<p>
+&nbsp;3.1、&nbsp;A python library for implementing a recommender system：<br/>
 <table>
   <tr>
     <td>
@@ -157,10 +171,10 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 </table>
 </p>
 <p>
-3、&nbsp;Recommender System Algorithms (source codes based on papers)
+4、&nbsp;Recommender System Algorithms (source codes based on papers)
 </p>
 <p>
-&nbsp;3.1、&nbsp;A python library for implementing a recommender system (From Book-reading-notes)：<br/>
+&nbsp;4.1、&nbsp;A python library for implementing a recommender system (From Book-reading-notes)：<br/>
 <table>
   <tr>
     <td>
@@ -173,7 +187,7 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 </table>
 </p>
 <p>
-&nbsp;3.2、&nbsp;Markov Decision Process (MDP) Toolbox for Python：<br/>
+&nbsp;4.2、&nbsp;Markov Decision Process (MDP) Toolbox for Python：<br/>
 <table>
   <tr>
     <td>
@@ -186,10 +200,10 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 </table>
 </p>
 <p>
-4、&nbsp;Feature Selection
+5、&nbsp;Feature Selection
 </p>
 <p>
-&nbsp;4.1、&nbsp;Classification Algorithms (From Book-reading-notes)：<br/>
+&nbsp;5.1、&nbsp;Classification Algorithms (From Book-reading-notes)：<br/>
 <table>
   <tr>
     <td>
@@ -199,7 +213,7 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 </table>
 </p>
 <p>
-&nbsp;4.2、&nbsp;scikit-learn：<br/>
+&nbsp;5.2、&nbsp;scikit-learn：<br/>
 <table>
   <tr>
     <td>
