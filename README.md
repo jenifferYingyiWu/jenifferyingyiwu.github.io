@@ -108,33 +108,20 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 <tr>
 	<td>
 	&nbsp;1.1、&nbsp;Using urllib：<br/>
-	<table>
-  		<tr>
-    			<td>
-    				&nbsp;urllib-utils.py
-    			</td>
-  		</tr>
-	</table>
+	&nbsp;urllib-utils.py
 	</td>
 	<td>
 	&nbsp;1.2、&nbsp;Using HTMLParser： <br/>
-	<table>
-  		<tr>
-    			<td>
-    				&nbsp;HTMLParser-utils.py
-    			</td>
-  		</tr>
-	</table>
+	&nbsp;HTMLParser-utils.py
 	</td>
 	<td>
 	&nbsp;1.3、&nbsp;Simple scraping：<br/>
-	<table>
-  	<tr>
-    		<td>
-    			&nbsp;simple-scraping.py
-    		</td>
-  	</tr>
-	</table>
+	&nbsp;simple-scraping.py
+	</td>
+</tr>
+<tr>
+	<td colspan="3">
+	&nbsp;A web crawler design for data mining (1-3).pdf (From Paper-reading-notes)
 	</td>
 </tr>
 </table>
