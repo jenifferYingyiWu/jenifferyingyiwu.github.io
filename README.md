@@ -119,8 +119,8 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 	&nbsp;simple-scraping.py
 	</td>
 </tr>
-<tr colspan="3">
-	<td>
+<tr>
+	<td colspan="3">
 	&nbsp;A web crawler design for data mining (1-3).pdf (From Paper-reading-notes)
 	</td>
 </tr>
