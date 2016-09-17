@@ -7,9 +7,17 @@ Part I.  &nbsp;&nbsp;从电子邮件和论坛中抽取数据 (From Book-reading-
   <tr>
     <td>
 	1、&nbsp;从电子邮件和论坛中抽取数据;<br/>
+    </td>
+    <td>
 	2、&nbsp;数据清洗：问题和目前的方法;<br/>
+    </td>
+    <td>
 	3、&nbsp;数据仓库的设计与使用；<br/>
+    </td>
+    <td>
 	4、&nbsp;Mining Google+: Computing Document Similarity, Extracting Collocations, and More；<br/>
+    </td>
+    <td>
 	5、&nbsp;Introduction to Machine Learning。<br/>
     </td>
   </tr>
@@ -30,6 +38,8 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
     			</td>
   		</tr>
 	</table>
+    </td>
+    <td>
 	2、&nbsp;Python文本字符串匹配：<br/>
 	<table>
   		<tr>
@@ -38,6 +48,8 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
     			</td>
   		</tr>
 	</table>
+    </td>
+    <td>
 	3、&nbsp;Python多线程：<br/>
 	<table>
   		<tr>
@@ -46,6 +58,8 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
     			</td>
   		</tr>
 	</table>
+    </td>
+    <td>
 	4、&nbsp;Python IO 操作文件：<br/>
 	<table>
   		<tr>
@@ -60,6 +74,8 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
     			</td>
   		</tr>
 	</table>
+    </td>
+    <td>
 	5、&nbsp;Big Data (From Book-reading-notes)：<br/>
 	<table>
   		<tr>
@@ -86,6 +102,8 @@ Part III.  &nbsp;&nbsp;Machine Learning Algorithms (From Book-reading-notes)
     			</td>
   		</tr>
 	</table>
+        </td>
+        <td>
 	2、&nbsp;DECISION TREES：<br/>
 	<table>
   		<tr>
@@ -139,10 +157,23 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 </table>
 </p>
 <p>
-3、&nbsp;Recommender System using Python
+3、&nbsp;Big data mining
 </p>
 <p>
-&nbsp;3.1、&nbsp;A python library for implementing a recommender system：<br/>
+&nbsp;3.1、&nbsp;Supervised learning (From Paper-reading-notes)：<br/>
+<table>
+  <tr>
+    <td>
+    &nbsp;Tri-Training: Exploiting Unlabeled Data Using Three Classifiers (I. - II.).pdf
+    </td>
+  </tr>
+</table>
+</p>
+<p>
+4、&nbsp;Recommender System using Python
+</p>
+<p>
+&nbsp;4.1、&nbsp;A python library for implementing a recommender system：<br/>
 <table>
   <tr>
     <td>
@@ -158,10 +189,10 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 </table>
 </p>
 <p>
-4、&nbsp;Recommender System Algorithms (source codes based on papers)
+5、&nbsp;Recommender System Algorithms (source codes based on papers)
 </p>
 <p>
-&nbsp;4.1、&nbsp;A python library for implementing a recommender system (From Book-reading-notes)：<br/>
+&nbsp;5.1、&nbsp;A python library for implementing a recommender system (From Book-reading-notes)：<br/>
 <table>
   <tr>
     <td>
@@ -174,7 +205,7 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 </table>
 </p>
 <p>
-&nbsp;4.2、&nbsp;Markov Decision Process (MDP) Toolbox for Python：<br/>
+&nbsp;5.2、&nbsp;Markov Decision Process (MDP) Toolbox for Python：<br/>
 <table>
   <tr>
     <td>
@@ -187,10 +218,10 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 </table>
 </p>
 <p>
-5、&nbsp;Feature Selection
+6、&nbsp;Feature Selection
 </p>
 <p>
-&nbsp;5.1、&nbsp;Classification Algorithms (From Book-reading-notes)：<br/>
+&nbsp;6.1、&nbsp;Classification Algorithms (From Book-reading-notes)：<br/>
 <table>
   <tr>
     <td>
@@ -200,7 +231,7 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 </table>
 </p>
 <p>
-&nbsp;5.2、&nbsp;scikit-learn：<br/>
+&nbsp;6.2、&nbsp;scikit-learn：<br/>
 <table>
   <tr>
     <td>
