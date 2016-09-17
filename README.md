@@ -6,27 +6,27 @@ Part I.  &nbsp;&nbsp;从电子邮件和论坛中抽取数据 (From Book-reading-
 <table>
   <tr>
     <td>
-	1、&nbsp;从电子邮件和论坛中抽取数据;<br/>
+	1、&nbsp;从电子邮件和论坛中抽取数据;
     </td>
   </tr>
   <tr>
     <td>
-	2、&nbsp;数据清洗：问题和目前的方法;<br/>
+	2、&nbsp;数据清洗：问题和目前的方法;
     </td>
   </tr>
   <tr>
     <td>
-	3、&nbsp;数据仓库的设计与使用；<br/>
+	3、&nbsp;数据仓库的设计与使用；
     </td>
   </tr>
   <tr>
     <td>
-	4、&nbsp;Mining Google+: Computing Document Similarity, Extracting Collocations, and More；<br/>
+	4、&nbsp;Mining Google+: Computing Document Similarity, Extracting Collocations, and More；
     </td>
   </tr>
   <tr>
     <td>
-	5、&nbsp;Introduction to Machine Learning。<br/>
+	5、&nbsp;Introduction to Machine Learning。
     </td>
   </tr>
 </table>
@@ -39,37 +39,19 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
   <tr>
     <td>
 	1、&nbsp;Python-Loops (From Book-reading-notes)：<br/>
-	<table>
-  		<tr>
-    			<td>
-      				&nbsp;大数据中for循环引发的算法时间复杂度和效率问题。
-    			</td>
-  		</tr>
-	</table>
+	&nbsp;大数据中for循环引发的算法时间复杂度和效率问题。
     </td>
   </tr>
   <tr>
     <td>
 	2、&nbsp;Python文本字符串匹配：<br/>
-	<table>
-  		<tr>
-    			<td>
-    				&nbsp;mining-match-text.py
-    			</td>
-  		</tr>
-	</table>
+	&nbsp;mining-match-text.py
     </td>
   </tr>
   <tr>
     <td>
 	3、&nbsp;Python多线程：<br/>
-	<table>
-  		<tr>
-    			<td>
-    				&nbsp;thread_helper.py 
-    			</td>
-  		</tr>
-	</table>
+	&nbsp;thread_helper.py 
     </td>
   </tr>
   <tr>
@@ -93,13 +75,7 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
   <tr>
     <td>
 	5、&nbsp;Big Data (From Book-reading-notes)：<br/>
-	<table>
-  		<tr>
-    			<td>
-    				&nbsp;Data storage on the batch layer.pdf
-    			</td>
-  		</tr>
-	</table>
+	&nbsp;Data storage on the batch layer.pdf
     </td>
   </tr>
 </table>
@@ -111,23 +87,11 @@ Part III.  &nbsp;&nbsp;Machine Learning Algorithms (From Book-reading-notes)
 <tr>
 	<td>
 	1、&nbsp;Graphical Models：<br/>
-	<table>
-  		<tr>
-    			<td>
-    				&nbsp;Markov Random Fields.pdf
-    			</td>
-  		</tr>
-	</table>
+	&nbsp;Markov Random Fields.pdf
         </td>
         <td>
 	2、&nbsp;DECISION TREES：<br/>
-	<table>
-  		<tr>
-    			<td>
-    				&nbsp;Learning with Trees.pdf
-    			</td>
-  		</tr>
-	</table>
+	&nbsp;Learning with Trees.pdf
 	</td>
 </tr>
 </table>
