@@ -8,15 +8,23 @@ Part I.  &nbsp;&nbsp;从电子邮件和论坛中抽取数据 (From Book-reading-
     <td>
 	1、&nbsp;从电子邮件和论坛中抽取数据;<br/>
     </td>
+  </tr>
+  <tr>
     <td>
 	2、&nbsp;数据清洗：问题和目前的方法;<br/>
     </td>
+  </tr>
+  <tr>
     <td>
 	3、&nbsp;数据仓库的设计与使用；<br/>
     </td>
+  </tr>
+  <tr>
     <td>
 	4、&nbsp;Mining Google+: Computing Document Similarity, Extracting Collocations, and More；<br/>
     </td>
+  </tr>
+  <tr>
     <td>
 	5、&nbsp;Introduction to Machine Learning。<br/>
     </td>
@@ -39,6 +47,8 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
   		</tr>
 	</table>
     </td>
+  </tr>
+  <tr>
     <td>
 	2、&nbsp;Python文本字符串匹配：<br/>
 	<table>
@@ -49,6 +59,8 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
   		</tr>
 	</table>
     </td>
+  </tr>
+  <tr>
     <td>
 	3、&nbsp;Python多线程：<br/>
 	<table>
@@ -59,6 +71,8 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
   		</tr>
 	</table>
     </td>
+  </tr>
+  <tr>
     <td>
 	4、&nbsp;Python IO 操作文件：<br/>
 	<table>
@@ -75,6 +89,8 @@ Part II. &nbsp;&nbsp;Problems encountered in the work
   		</tr>
 	</table>
     </td>
+  </tr>
+  <tr>
     <td>
 	5、&nbsp;Big Data (From Book-reading-notes)：<br/>
 	<table>
