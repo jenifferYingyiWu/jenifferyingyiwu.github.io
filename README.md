@@ -223,3 +223,14 @@ Part IV.  &nbsp;&nbsp;Journal Papers
   </tr>
 </table>
 </p>
+<title>
+Part V.  &nbsp;&nbsp;Doctor Papers Algorithms (From Doctor folder)
+</title>
+<table>
+<tr>
+	<td>
+	&nbsp;Chapter 1 A Brief Review of Supervised Learning.pdf
+        </td>
+</tr>
+</table>
+<hr/>
