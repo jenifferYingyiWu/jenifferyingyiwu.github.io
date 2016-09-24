@@ -223,6 +223,7 @@ Part IV.  &nbsp;&nbsp;Journal Papers
   </tr>
 </table>
 </p>
+<hr/>
 <title>
 Part V.  &nbsp;&nbsp;Doctor Papers Algorithms (From Doctor folder)
 </title>
@@ -233,4 +234,4 @@ Part V.  &nbsp;&nbsp;Doctor Papers Algorithms (From Doctor folder)
         </td>
 </tr>
 </table>
-<hr/>
+
