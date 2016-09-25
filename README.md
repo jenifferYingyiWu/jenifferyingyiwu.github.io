@@ -225,7 +225,18 @@ Part IV.  &nbsp;&nbsp;Journal Papers
 </p>
 <hr/>
 <title>
-Part V.  &nbsp;&nbsp;Ph.D Papers Algorithms (From Ph.D-studying folder)
+Part V.  &nbsp;&nbsp;IELTS reading notes (From IELTS-studying folder)
+</title>
+<table>
+<tr>
+	<td>
+	&nbsp;Word List  28.pdf
+        </td>
+</tr>
+</table>
+<hr/>
+<title>
+Part VI.  &nbsp;&nbsp;Ph.D Papers Algorithms (From Ph.D-studying folder)
 </title>
 <table>
 <tr>
