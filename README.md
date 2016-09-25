@@ -244,5 +244,10 @@ Part VI.  &nbsp;&nbsp;Ph.D Papers Algorithms (From Ph.D-studying folder)
 	&nbsp;A Brief Review of Supervised Learning.pdf
         </td>
 </tr>
+<tr>
+	<td>
+	&nbsp;Learning in Two-Player Matrix Games.pdf
+        </td>
+</tr>
 </table>
 
