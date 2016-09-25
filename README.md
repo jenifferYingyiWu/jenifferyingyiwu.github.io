@@ -230,7 +230,7 @@ Part V.  &nbsp;&nbsp;Ph.D Papers Algorithms (From Ph.D-studying folder)
 <table>
 <tr>
 	<td>
-	&nbsp;Chapter 1 A Brief Review of Supervised Learning.pdf
+	&nbsp;A Brief Review of Supervised Learning.pdf
         </td>
 </tr>
 </table>
