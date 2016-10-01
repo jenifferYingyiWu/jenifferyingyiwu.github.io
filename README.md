@@ -238,6 +238,18 @@ Part V.  &nbsp;&nbsp;IELTS reading notes (From IELTS-studying folder)
 <title>
 Part VI.  &nbsp;&nbsp;Ph.D Papers Algorithms (From Ph.D-studying folder)
 </title>
+<p>
+&nbsp;1、&nbsp;Data structure & Algorithm：<br/>
+<table>
+<tr>
+	<td>
+	&nbsp;Dynamic Programming.pdf
+	</td>
+</tr>
+</table>
+</p>
+<p>
+&nbsp;2、&nbsp;Artificial intelligence & Reinforcement learning：<br/>
 <table>
 <tr>
 	<td>
@@ -249,10 +261,6 @@ Part VI.  &nbsp;&nbsp;Ph.D Papers Algorithms (From Ph.D-studying folder)
 	&nbsp;Learning in Two-Player Matrix Games.pdf
         </td>
 </tr>
-<tr>
-	<td>
-	&nbsp;Dynamic Programming.pdf
-	</td>
-</tr>
 </table>
+</p>
 
