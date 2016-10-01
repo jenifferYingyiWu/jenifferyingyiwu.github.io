@@ -249,5 +249,10 @@ Part VI.  &nbsp;&nbsp;Ph.D Papers Algorithms (From Ph.D-studying folder)
 	&nbsp;Learning in Two-Player Matrix Games.pdf
         </td>
 </tr>
+<tr>
+	<td>
+	&nbsp;Dynamic Programming.pdf
+	</td>
+</tr>
 </table>
 
