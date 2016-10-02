@@ -249,13 +249,23 @@ Part VI.  &nbsp;&nbsp;Ph.D Papers Algorithms (From Ph.D-studying folder)
 </table>
 </p>
 <p>
-&nbsp;2、&nbsp;Artificial intelligence & Reinforcement learning：<br/>
+&nbsp;2、&nbsp;Artificial intelligence：<br/>
 <table>
 <tr>
 	<td>
 	&nbsp;A Brief Review of Supervised Learning.pdf
         </td>
 </tr>
+<tr>
+	<td>
+	&nbsp;Exploratory Undersampling for Class-Imbalance Learning.pdf
+	</td>
+</tr>
+</table>
+</p>
+<p>
+&nbsp;3、&nbsp;Reinforcement learning：<br/>
+<table>
 <tr>
 	<td>
 	&nbsp;Learning in Two-Player Matrix Games.pdf
