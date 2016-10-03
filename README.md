@@ -261,6 +261,11 @@ Part VI.  &nbsp;&nbsp;Ph.D Papers Algorithms (From Ph.D-studying folder)
 	&nbsp;Exploratory Undersampling for Class-Imbalance Learning.pdf
 	</td>
 </tr>
+<tr>
+	<td>
+	&nbsp;Large Margin DAGs for Multiclass Classification.pdf
+	</td>
+</tr>
 </table>
 </p>
 <p>
