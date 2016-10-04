@@ -266,6 +266,11 @@ Part VI.  &nbsp;&nbsp;Ph.D Papers Algorithms (From Ph.D-studying folder)
 	&nbsp;Large Margin DAGs for Multiclass Classification.pdf
 	</td>
 </tr>
+<tr>
+	<td>
+	&nbsp;Theoretical comparison between the Gini Index and Information Gain criteria
+	</td>
+</tr>
 </table>
 </p>
 <p>
