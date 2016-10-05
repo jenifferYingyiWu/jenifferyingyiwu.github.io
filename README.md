@@ -268,7 +268,12 @@ Part VI.  &nbsp;&nbsp;Ph.D Papers Algorithms (From Ph.D-studying folder)
 </tr>
 <tr>
 	<td>
-	&nbsp;Theoretical comparison between the Gini Index and Information Gain criteria
+	&nbsp;Theoretical comparison between the Gini Index and Information Gain criteria.pdf
+	</td>
+</tr>
+<tr>
+	<td>
+	&nbsp;Pegasos: Primal Estimated sub-GrAdient Solver for SVM.pdf
 	</td>
 </tr>
 </table>
