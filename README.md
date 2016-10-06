@@ -276,6 +276,11 @@ Part VI.  &nbsp;&nbsp;Ph.D Papers Algorithms (From Ph.D-studying folder)
 	&nbsp;Pegasos: Primal Estimated sub-GrAdient Solver for SVM.pdf
 	</td>
 </tr>
+<tr>
+	<td>
+	&nbsp;Learning Bayesian Network Classifiers by Maximizing Conditional Likelihood.pdf
+	</td>
+</tr>
 </table>
 </p>
 <p>
