@@ -281,6 +281,11 @@ Part VI.  &nbsp;&nbsp;Ph.D Papers Algorithms (From Ph.D-studying folder)
 	&nbsp;Learning Bayesian Network Classifiers by Maximizing Conditional Likelihood.pdf
 	</td>
 </tr>
+<tr>
+	<td>
+	&nbsp;Isolation-based Anomaly Detection.pdf
+	</td>
+</tr>
 </table>
 </p>
 <p>
