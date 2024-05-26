@@ -11,8 +11,8 @@
 </p>
 <p>
     <font size="6"> I aspire to connect with digital artists around the globe, engaging in creative discussions and exploring innovative digital art portfolios together. I am also eager to share my own digital art portfolio, fostering a healthy, harmonious, open, and inclusive digital art ecosystem. </font>
-    <img height="50" width="50" src="images/cute_smiley.png"/>
 </p>
+<img height="50" width="50" src="images/cute_smiley.png"/>
 
 <p> 
     <font size="8"> Warmest Regards, </font>
