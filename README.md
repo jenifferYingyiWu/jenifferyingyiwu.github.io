@@ -1,4 +1,4 @@
-# Digital Artist
+# AI Digital Artist
 
 <p> 
     <font size="8"> Dear All, </font>
